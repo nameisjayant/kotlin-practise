@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cb21937-b511-470e-8e82-16d79d91de01" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin_basics/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_practise/reverse_string.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin_basics/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin_basics/Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_practise/META-INF/kotlin_practise.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin_practise/META-INF/kotlin_practise.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin_practise/TestKt.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,19 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kotlin_basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Reverse_stringKt">
+    <configuration name="Reverse_stringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_practise.Reverse_stringKt" />
+      <module name="kotlin_practise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlin_basics.TestKt" />
       <module name="kotlin_practise" />
@@ -52,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Reverse_stringKt" />
         <item itemvalue="Kotlin.TestKt" />
       </list>
     </recent_temporary>
