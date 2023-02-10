@@ -1,3 +1,3 @@
 # kotlin practise
 
-Repository made for kotlin practise.
+Repository for kotlin practise.
